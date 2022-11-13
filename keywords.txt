@@ -1,0 +1,29 @@
+############################################
+# Syntax Coloring Map For SimpleStompClient
+############################################ 
+# Class
+############################################
+
+StompClient	KEYWORD1
+#Stomp	KEYWORD1
+
+############################################
+# Methods and Functions
+############################################
+
+setMessageCallback 	KEYWORD2
+
+subscribe 	KEYWORD2
+unsubscribe 	KEYWORD2
+
+connect 	KEYWORD2
+
+publish		KEYWORD2
+
+loop	KEYWORD2
+
+sendData	KEYWORD2
+disconnect	KEYWORD2
+############################################
+# Constants
+############################################
